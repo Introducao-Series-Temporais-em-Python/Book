@@ -1,0 +1,6 @@
+,name,file_name,short_description,read_access
+0,Pharma Sales,pharma_sales.csv,Volume de Venda Mensal de Anti-Histamínicos para uso Sistêmico,"pd.read_csv(url,index_col=0,parse_dates=True)"
+1,Gas Consumption,gas_consumption.csv,Evolução do Consumo de Gás para a geração de energia elétrica no mundo,"pd.read_csv(url,index_col=0,parse_dates=True)"
+2,Google Trends Tesla,google_trends_tesla.csv,"Google Trends, quantidade de buscas normalizadas da palavra chave Tesla no Google","pd.read_csv(url,index_col=0,parse_dates=True)"
+3,Embraer,embraer.csv,Valores Mensais de Fechamento das Ações da EMBRAER,"pd.read_csv(url,index_col=0,parse_dates=True)"
+4,Covid Brasil,covid_brasil.csv,Número ajustado de novos casos de COVID no Brasil,"pd.read_csv(url,index_col=0,parse_dates=True)"
