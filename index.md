@@ -26,15 +26,15 @@ Prefácio, 1
 
 Quick Start, 2
 
-1.	Introdução às Séries Temporais, 20
-2.	Modelos de Suavização Exponencial, 30
-3.	Modelos de Predição ARMA e ARIMA, 50
-4.	Modelos ARIMA Sazonais e com Variáveis Exógenas, 60
-5.	Aprendizado de Máquina, 120
+1.	Introdução às Séries Temporais,  
+2.	Modelos de Suavização Exponencial,  
+3.	Modelos de Predição ARMA e ARIMA, 
+4.	Modelos ARIMA Sazonais e com Variáveis Exógenas, 
+5.	Aprendizado de Máquina,  
 6.	Conclusão
 
 
-Bibliografia Comentada e Recursos, 140
+Bibliografia Comentada,  
 
 Glossário, 150
 
