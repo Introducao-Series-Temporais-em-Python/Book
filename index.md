@@ -36,7 +36,7 @@ Quick Start, 2
 
 Bibliografia Comentada,  
 
-Glossário, 150
+Glossário,  
 
 <br>
 <br>
