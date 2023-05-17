@@ -43,7 +43,7 @@ Glossário
 <br>
 <br>
 
-**ROGÉRIO DE OLIVEIRA**. *É professor das disciplinas de Ciências de Dados, Inteligência Artificial e  Probabilidade e Estatística Aplicadas, na UPM Universidade Presbiteriana Mackenzie, nos cursos da Faculdade de Computação e Informática e da Escola de Engenharia. Doutorado em Engenharia Elétrica pela Escola Politécnica (Poli-USP), mestre pela UPM, é graduado em Matemática (IME-USP) e Ciências Econômicas (FEA-USP), e tem Especialização em Neurociências e Psicologia Aplicadas (UPM). Pela Série Conexão Inicial é também auto do livro Visualização de Dados em Python.*
+**ROGÉRIO DE OLIVEIRA**. *É professor das disciplinas de Ciências de Dados, Inteligência Artificial e  Probabilidade e Estatística Aplicadas, na UPM Universidade Presbiteriana Mackenzie, nos cursos da Faculdade de Computação e Informática e da Escola de Engenharia. Doutorado em Engenharia Elétrica pela Escola Politécnica (Poli-USP), mestre pela UPM, é graduado em Matemática (IME-USP) e Ciências Econômicas (FEA-USP), e tem Especialização em Neurociências e Psicologia Aplicadas (UPM). Pela Série Conexão Inicial é também autor do livro Visualização de Dados em Python.*
 
 **ORLANDO YESID ESPARZA ALBARRACIN.** *É professor das disciplinas de Estatística aplicada e Análise de Dados na Universidade Presbiteriana Mackenzie, UPM, nos cursos da Escola de Engenharia. Doutorado e mestrado em Estatística (IME-USP) e graduado em Matemática (Universidad Industrial de Santander).*
 
