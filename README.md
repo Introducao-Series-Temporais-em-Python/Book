@@ -37,7 +37,7 @@
 [Bibliografia Comentada e Recursos](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/Book/blob/main/biblio.ipynb)
 
 
-Glossário
+[Glossário](https://github.com/Introducao-Series-Temporais-em-Python/Book/blob/main/Glossario.md)
 
 <br>
 <br>
