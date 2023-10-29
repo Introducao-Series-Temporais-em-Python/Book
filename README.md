@@ -4,7 +4,8 @@
 <h3 align=center><font size = 8, style="color:rgb(200,0,0)"><b>Uma Abordagem Prática em Python
 </b></font></h3> 
 
-(*in printing*)
+<h5 align=center><font size = 8, style="color:rgb(200,0,0)"><it>(now, in printing)
+</it></font></h5> 
 
 <br>
 
