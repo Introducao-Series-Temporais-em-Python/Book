@@ -1,5 +1,3 @@
-<img src="https://github.com/Introducao-Series-Temporais-em-Python/Book/blob/main/Figures/ISTP_capa.png?raw=true" width="150" align="left" />
-
 <h1 align=center><font size = 8, style="color:rgb(200,0,0)"><b>Introdução às Séries Temporais
 </b></font></h1> 
 
@@ -9,6 +7,17 @@
 <h5 align=center><font size = 8, style="color:rgb(200,0,0)"><i>(now, in printing)
 </i></font></h5> 
 
+<br>
+
+<img src="https://github.com/Introducao-Series-Temporais-em-Python/Book/blob/main/Figures/ISTP_capa.png?raw=true" width="150" align="left" />
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 <h5 align=center><font size = 8, style="color:rgb(200,0,0)"><b>Autores
